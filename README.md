@@ -47,15 +47,6 @@ Tenho grande interesse pelo desenvolvimento web, arquitetura de bases de dados r
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aninhabeatrizsivamaia-collab&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabeatrizsivamaia-collab&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > *"Se algo pode correr mal, correrá." (Lei de Murphy)*  
